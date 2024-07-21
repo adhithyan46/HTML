@@ -1,0 +1,23 @@
+
+ a:link{
+            background-color: transparent;
+            color: blue;
+            text-decoration: none;
+            
+        }
+        a:visited{
+            color: aqua;
+            background-color:red;
+            text-decoration: none;
+
+        }
+        a:hover{
+            color: aquamarine;
+            background-color: gainsboro;
+            text-decoration: underline;
+        }
+        a:active{
+            color: cyan;
+            background-color:transparent ;
+            text-decoration: underline;
+}
